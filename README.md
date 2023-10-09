@@ -7,3 +7,7 @@
 - [image classification](https://github.com/yudavid0611/til-ml/blob/master/neural_network/image_classification.ipynb)
 - [loss function](https://github.com/yudavid0611/til-ml/blob/master/neural_network/loss_function.ipynb)
 - [train](https://github.com/yudavid0611/til-ml/blob/master/neural_network/train.ipynb)
+
+## NLP
+- [CBOW](https://github.com/yudavid0611/til-ml/blob/master/NLP/CBOW.ipynb)
+
