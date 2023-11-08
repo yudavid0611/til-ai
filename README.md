@@ -11,3 +11,5 @@
 ## NLP
 - [CBOW](https://github.com/yudavid0611/til-ml/blob/master/NLP/CBOW.ipynb)
 
+## CV
+- [CNN](https://github.com/yudavid0611/til-ml/blob/master/CV/CNN.ipynb)
